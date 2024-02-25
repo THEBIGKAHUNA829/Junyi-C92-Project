@@ -1,0 +1,39 @@
+body
+{
+	background-color: blanchedalmond;
+	text-align: center;
+}
+
+	.container
+	{
+		background-color:rgb(146, 134, 216);
+		padding: 5%;
+		width: 50%;
+		border-radius: 20px;
+		border: solid 5px #4d1e00;
+	}
+
+
+#player1_score, #player2_score
+{
+	display: inline-block;
+	margin-left: 10px;
+	width: 80%;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: left;
+text-align: center;
+}
